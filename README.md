@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou esdante do 3º ano do curso técnico em informática pelo IFBA - Campus Barreiras
 - 🌱 Atualmente estou aprendendo programação para web
-- 📫 email: gabrielvieora14.gv@gmail.com | Telefone: (74)9 99839769
+- 📫 email: gabrielvieora14.gv@gmail.com | Telefone: (74) 9 99839769
 
 <div align="center">
   <a href="https://github.com/GabrielVieira14">
