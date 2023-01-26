@@ -1,4 +1,4 @@
-## Oiii eu sou Gabriel Vieira sou estudante de desenvolvimento front-end e web designer!
+## Olá eu sou Gabriel Vieira sou estudante de desenvolvimento front-end e web designer!
 
 - 🔭 Técnico em informática pelo IFBA - Campus Barreiras
 - 🌱 Atualmente estou estudando desenvolvimento web
