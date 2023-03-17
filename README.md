@@ -1,7 +1,7 @@
 ## Olá eu sou Gabriel Vieira sou estudante de desenvolvimento front-end e web designer!
 
 - 🔭 Técnico em informática pelo IFBA - Campus Barreiras
-- 🌱 Atualmente estou estudando desenvolvimento web
+- 🌱 Atualmente estou estudando desenvolvimento web com React
 - 📫 email: gabrielvieora14.gv@gmail.com | Telefone/Whatsapp: (74) 9 99839769
 
 <div align="center">
