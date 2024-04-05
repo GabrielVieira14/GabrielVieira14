@@ -17,7 +17,8 @@
   <img align="center" alt="html5 icon" src="https://img.shields.io/badge/HTML-E44F26?style=for-the-badge&logo=html5&logoColor=white"/> <img align="center" alt="css3 icon" src="https://img.shields.io/badge/CSS-004CE8?style=for-the-badge&logo=css3&logoColor=white"/> <img align="center" alt="javascript icon" src="https://img.shields.io/badge/JavaScript-FFC700?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="php icon" src="https://img.shields.io/badge/php-484C89?style=for-the-badge&logo=php&logoColor=white"/>
   
-  <br/>
+  <br>
+  
   <img align="center" alt="Gabriel-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center" alt="Gabriel-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
