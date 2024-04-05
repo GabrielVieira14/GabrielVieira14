@@ -1,7 +1,7 @@
 ### Olá eu sou o Gabriel sou um desenvolvedor front-end e web designer!
 
 - 🔭 Técnico em informática pelo IFBA - Campus Barreiras
-- 🌱 Desenvolvedor Web e UX Design
+- 🌱 Desenvolvedor Web _Front-End_ e UX Design
 - 📫 Telefone/Whatsapp: (74) 9 99839769
 
 <div align="center">
