@@ -18,7 +18,6 @@
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
   <img align="center" alt="Gabriel-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center" alt="Gabriel-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Gabriel-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </div>
   
 ###
