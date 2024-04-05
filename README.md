@@ -2,7 +2,7 @@
 
 - 🔭 Técnico em informática pelo IFBA - Campus Barreiras
 - 🌱 Atualmente estou estudando desenvolvimento web com React
-- 📫 email: gabrielvieora14.gv@gmail.com | Telefone/Whatsapp: (74) 9 99839769
+- 📫 Telefone/Whatsapp: (74) 9 99839769
 
 <div align="center">
   <a href="https://github.com/GabrielVieira14">
@@ -10,6 +10,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVieira14&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+
+
+<hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
@@ -19,5 +22,6 @@
   <img align="center" alt="Gabriel-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center" alt="Gabriel-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
+<hr>
   
 ###
