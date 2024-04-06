@@ -1,4 +1,4 @@
-### Olá eu sou o Gabriel sou um desenvolvedor front-end e web designer!
+### Olá eu sou o Gabriel sou desenvolvedor front-end e web designer!
 
 - 👨🏽‍💻 Técnico em informática pelo IFBA - Campus Barreiras
 - 🌱 Desenvolvedor Web _Front-End_ e UX Designer
