@@ -1,8 +1,6 @@
 ### Olá eu sou o Gabriel sou desenvolvedor front-end e web designer!
 
-- 👨🏽‍💻 Técnico em informática pelo IFBA - Campus Barreiras
-- 🌱 Desenvolvedor Web _Front-End_ e UX Designer
-- 📫 Telefone/Whatsapp: (74) 9 99839769
+- 👨🏽‍💻 Técnico em informática pelo IFBA
 
 <div align="center">
   <a href="https://github.com/GabrielVieira14">
