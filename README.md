@@ -3,7 +3,7 @@
 Apaixonado por tecnologia e inovação. Sou técnico em informática, desenvolvedor front-end e web designer
 
 - 👨🏽‍💻 Técnico em informática pelo IFBA
--Atualmente estou ampliando meus conhecimentos com angular e typescript
+-  Atualmente estou ampliando meus conhecimentos com angular e typescript
 
 <div align="center">
   <a href="https://github.com/GabrielVieira14">
