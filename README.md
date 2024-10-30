@@ -4,6 +4,7 @@ Apaixonado por tecnologia e inovação. Sou técnico em informática, desenvolve
 
 - 👨🏽‍💻 Técnico em informática pelo IFBA
 -  Atualmente estou ampliando meus conhecimentos com angular e typescript
+-  Contato: (74) 99983-9769
 
 <div align="center">
   <a href="https://github.com/GabrielVieira14">
