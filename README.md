@@ -2,8 +2,8 @@
 
 Apaixonado por tecnologia e inovação. Sou técnico em informática, desenvolvedor front-end e web designer
 
-- 👨🏽‍💻 Técnico em informática pelo IFBA
--  Atualmente estou ampliando meus conhecimentos com angular e typescript
+- 👨🏽‍💻 Técnico em informática pelo Instituto Federal da Bahia (IFBA)
+-  Atualmente estou ampliando meus conhecimentos em frameworks com angular e react,  e typescript
 -  Contato: (74) 99983-9769
 
 <div align="center">
