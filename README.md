@@ -11,13 +11,6 @@ Sou um apaixonado por tecnologia e inovação e estou sempre em busca de novos c
 -  Atualmente estou ampliando meus conhecimentos em frameworks com Angular e React. E em Inteligência Artificial de forma que auxilie ajude na automação de futuros projetos.  
 -  Contato: (74) 99983-9769
 
-<div align="center">
-  <a href="https://github.com/GabrielVieira14">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielVieira14&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVieira14&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
 <div>
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabrielvieira0) 
