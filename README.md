@@ -2,8 +2,8 @@
 
 Técnico em informática | Desenvolvedor Front-End | Web Designer.
 
-Profissional de T.I formado em técnico em informática pelo Instituto Federal da Bahia (IFBA). Atualmente estou cursando Analise e Desenvolvimento de Sistemas (ADS) pelo Centro Universitário da Grande Fortaleza (UNIGRANDE). Tenho experiencia em Front-End (HTML, CSS, JS) e atualmente estudo React para elevação de conhecimentos e habilidades, tendo em foco minha carreira profissional.
-No Back-End tenho conhecimentos em PHP e banco de dados com MySQL, além de mais de 3 anos de experiência como suporte técnico.
+Profissional de T.I com mais de 3 anos de experiência como suporte técnico, sou formado em técnico em informática pelo Instituto Federal da Bahia (IFBA). Atualmente estou cursando Analise e Desenvolvimento de Sistemas (ADS) pelo Centro Universitário da Grande Fortaleza (UNIGRANDE). Tenho experiencia em Front-End (HTML, CSS, JS) e atualmente estudo React para elevação de conhecimentos e habilidades, tendo em foco minha carreira profissional.
+No Back-End tenho conhecimentos em PHP e banco de dados com MySQL.
 Utilizo ainda as ferramentas Figma, Corel Draw e Gimp para criação de layouts responsivos utilizando técnicas UI/UX e assim transformar ideias em projetos visuais funcionais.
 
 Sou um apaixonado por tecnologia e inovação e estou sempre em busca de novos conhecimentos de forma produtiva afim de aplicar tecnologia de forma criativa.
