@@ -19,7 +19,7 @@ Sou um apaixonado por tecnologia e inovação e estou sempre em busca de novos c
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVieira14&show_icons=true&theme=radical)
 
  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVieira14&commits_year=2025)
  
 </div>
 
