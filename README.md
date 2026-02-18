@@ -123,8 +123,8 @@ Sou um apaixonado por tecnologia e inovação e estou sempre em busca de novos c
 
 <img
     align="left"
-    alt="Python"
-    title="Python"
+    alt="React"
+    title="React"
     width="30px"
     style="padding: 5px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
