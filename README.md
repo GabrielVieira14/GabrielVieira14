@@ -31,9 +31,106 @@ Sou um apaixonado por tecnologia e inovação e estou sempre em busca de novos c
 
 </div>
 
-## Skills
+ 
+## 🤖 Linguagens e tecnologias
 
-<div style="display: inline_block">
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+    align="left"
+    alt="PHP"
+    title="PHP"
+    width="30px"
+    style="padding: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+<img
+    align="left"
+    alt="Linux"
+    title="Linux"
+    width="30px"
+    style="padding: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>       
+
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+    align="left"
+    alt="Figma"
+    title="Figma"
+    width="30px"
+    style="padding: 5px"
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+<img 
+    align="left"
+    alt="Windows"
+    title="Windows"
+    width="30px"
+    style="padding: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
+/>
+<img
+    align="left"
+    alt="VS Code"
+    title="VS Code"
+    width="30px"
+    style="padding: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+
+<br/>
+
+## 📚 Estudos
+
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+          
+<!-- <div style="display: inline_block">
 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white) 
@@ -41,8 +138,5 @@ Sou um apaixonado por tecnologia e inovação e estou sempre em busca de novos c
   ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
   ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-<hr/>
-  <img align="center" alt="Figma icon" src="https://img.shields.io/badge/Figma-0C9A48?style=for-the-badge&logo=figma&logoColor=white"/> 
-
-
- 
+  <img alt="Figma icon" src="https://img.shields.io/badge/Figma-0C9A48?style=for-the-badge&logo=figma&logoColor=white"/> 
+ </div> -->
