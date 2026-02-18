@@ -12,6 +12,10 @@ Sou um apaixonado por tecnologia e inovação e estou sempre em busca de novos c
 -  Contato: (74) 99983-9769
 
 <div>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GabrielVieira14=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div>
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabrielvieira0) 
  [![Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielvieora14.gv@gmail.com)
