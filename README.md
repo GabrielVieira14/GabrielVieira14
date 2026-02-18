@@ -131,7 +131,6 @@ Sou um apaixonado por tecnologia e inovação e estou sempre em busca de novos c
 />
           
 <!-- <div style="display: inline_block">
-
   ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
