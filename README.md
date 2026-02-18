@@ -12,7 +12,15 @@ Sou um apaixonado por tecnologia e inovação e estou sempre em busca de novos c
 -  Contato: (74) 99983-9769
 
 <div>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GabrielVieira14=anuraghazra)]
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVieira14)](https://github.com/anuraghazra/github-readme-stats)
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVieira14&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,icons=true&theme=radical)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVieira14&show_icons=true&theme=radical)
+
+ 
+
+ 
 </div>
 
 <div>
